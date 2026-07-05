@@ -13,7 +13,7 @@ Tujuan utama dari proyek ini adalah membangun model AI yang mampu menjawab perso
 
 * **Model Base:** `unsloth/llama-3-8b-Instruct-bnb-4bit`
 * **Dataset Resmi:** Available on Hugging Face Datasets
-* **Weights/Adapter:** Released on Hugging Face Models: [faisal-han/fiqih-sciverse-lora](https://huggingface.co/faisal-han/fiqih-sciverse-lora)
+* **Weights/Adapter:** Released on Hugging Face Models: [faisal-han/fiqih-sciverse-lora](https://huggingface.co/handvi/fiqih-sciverse-lora)
 
 ---
 
