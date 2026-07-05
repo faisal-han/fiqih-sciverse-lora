@@ -40,7 +40,7 @@ import torch
 
 max_seq_length = 2048
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name = "faisal-han/fiqih-sciverse-lora", # Memanggil adapter dari Hugging Face
+    model_name = "handvi/fiqih-sciverse-lora", # Memanggil adapter dari Hugging Face
     max_seq_length = max_seq_length,
     load_in_4bit = True,
 )
